@@ -31,12 +31,12 @@
 
 ### Soft Skills
 
-💪 Liderazgo
-📚 Organización
-🌟 Responsabilidad
-⏰ Gestión del tiempo
-👬 Trabajo en equipo
-📢 Comunicación
+💪 Liderazgo,
+📚 Organización,
+🌟 Responsabilidad,
+⏰ Gestión del tiempo,
+👬 Trabajo en equipo,
+📢 Comunicación **y**
 👍 Resolución de problemas.
 
 
