@@ -1,7 +1,7 @@
-### Lizeth Rodríguez 👋
-## Front end Developer | Ingeniera Agroindustrial
+## Lizeth Rodríguez 👋
+### Front end Developer | Ingeniera Agroindustrial
 
-<!--
+
 **Correo:* lizk7755.lr@gmail.com 
 **Celular:** +57 3174148400 
 **Portafolio:** https://github.com/Lizk7755
