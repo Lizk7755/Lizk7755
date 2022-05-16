@@ -3,7 +3,7 @@
 
 -----------
 
-- **Correo:* lizk7755.lr@gmail.com 
+- **Correo:** lizk7755.lr@gmail.com 
 - **Celular:** +57 3174148400 
 - **Portafolio:** https://github.com/Lizk7755
 - **LinkedIn:** https://www.linkedin.com/in/lizeth-rodriguez-536999236/
